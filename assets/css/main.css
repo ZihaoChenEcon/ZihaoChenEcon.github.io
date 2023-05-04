@@ -1131,14 +1131,14 @@ input, select, textarea {
 		}
 
 		#bg:before {
-			-moz-transition: background-color 1s ease-in-out;
-			-webkit-transition: background-color 1s ease-in-out;
-			-ms-transition: background-color 1s ease-in-out;
-			transition: background-color 1s ease-in-out;
-			-moz-transition-delay: 0.75s;
-			-webkit-transition-delay: 0.75s;
-			-ms-transition-delay: 0.75s;
-			transition-delay: 0.2s;
+			-moz-transition: background-color 0.7s ease-in-out;
+			-webkit-transition: background-color 0.7s ease-in-out;
+			-ms-transition: background-color 0.7s ease-in-out;
+			transition: background-color 0.7s ease-in-out;
+			-moz-transition-delay: 0.1s;
+			-webkit-transition-delay: 0.1s;
+			-ms-transition-delay: 0.1s;
+			transition-delay: 0.1s;
 			background-image: linear-gradient(to top, rgba(19, 21, 25, 0.15), rgba(19, 21, 25, 0.15));
 			/*background-image: linear-gradient(to top, rgba(19, 21, 25, 0.15), rgba(19, 21, 25, 0.15)), url("../../images/overlay.png");*/
 			background-size: auto,
